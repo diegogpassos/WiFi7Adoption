@@ -2,7 +2,7 @@
 
 This project aims to study the adoption of different versions or generations of Wi-Fi. The repository contains partial (anonymized) data, scripts, and auxiliary files used to generate the results reported on the following paper:
 
-- R. Castanheira, D. Passos. "Empirical study on the adoption of different Wi-Fi versions: a case study in Lisbon", The 27th International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (submitted), 2025.
+- R. Castanheira, D. Passos. "Empirical study on the adoption of different Wi-Fi versions: a case study in Lisbon", the 13th Wireless Days (WD 2025), (submitted), 2025.
 
 More details on the methodology can be found on the paper.
 
